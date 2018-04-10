@@ -1,0 +1,9 @@
+E:\Tuan5\Tuan5\bin\Debug\Tuan5.exe.config
+E:\Tuan5\Tuan5\obj\Debug\Tuan5.csprojResolveAssemblyReference.cache
+E:\Tuan5\Tuan5\obj\Debug\Tuan5.Form1.resources
+E:\Tuan5\Tuan5\obj\Debug\Tuan5.Properties.Resources.resources
+E:\Tuan5\Tuan5\obj\Debug\Tuan5.csproj.GenerateResource.Cache
+E:\Tuan5\Tuan5\bin\Debug\Tuan5.exe
+E:\Tuan5\Tuan5\bin\Debug\Tuan5.pdb
+E:\Tuan5\Tuan5\obj\Debug\Tuan5.exe
+E:\Tuan5\Tuan5\obj\Debug\Tuan5.pdb
