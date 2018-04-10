@@ -4,3 +4,6 @@ E:\Tuan5\Client\bin\Debug\Client.pdb
 E:\Tuan5\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
 E:\Tuan5\Client\obj\Debug\Client.exe
 E:\Tuan5\Client\obj\Debug\Client.pdb
+E:\Lap trinh mang\Tuan5\Client\bin\Debug\Client.exe.config
+E:\Lap trinh mang\Tuan5\Client\obj\Debug\Client.exe
+E:\Lap trinh mang\Tuan5\Client\obj\Debug\Client.pdb
